@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdoSoliman777
+- 👋 Hi i`m Abdo Soliman 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on senior in backend devolper
